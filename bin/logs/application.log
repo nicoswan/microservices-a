@@ -1,0 +1,2422 @@
+2016-11-16 14:21:52,621 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,621 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,627 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,627 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,628 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,628 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,630 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:21:52,630 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,631 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,631 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,631 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,631 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - The application secret has not been set, and we are in prod mode. Your application is not secure.
+2016-11-16 14:21:52,632 [ERROR] from play.api.libs.crypto.CryptoConfigParser in main - To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+2016-11-16 14:21:52,654 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - updates running
+2016-11-16 14:25:00,510 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:25:00,525 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:25:00,541 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - updates running
+2016-11-16 14:25:00,588 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Running Startup Dignostics
+2016-11-16 14:25:00,682 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 14:25:05,542 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:25:07,545 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:25:09,538 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:25:11,522 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:25:13,550 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:25:15,523 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:25:17,549 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:25:19,534 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:25:21,536 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:25:34,880 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:25:34,887 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:25:34,909 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - updates running
+2016-11-16 14:25:34,949 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - Running Startup Dignostics
+2016-11-16 14:25:35,052 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 14:25:39,893 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - api sync running
+2016-11-16 14:25:41,892 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:25:43,896 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - api sync running
+2016-11-16 14:25:45,895 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:24,437 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:36:24,447 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:36:24,465 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - updates running
+2016-11-16 14:36:24,501 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Running Startup Dignostics
+2016-11-16 14:36:24,650 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 14:36:29,444 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:29,444 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:30,535 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:31,445 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:31,445 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:32,473 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:33,460 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:33,460 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:34,478 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:35,448 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:35,448 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:36,479 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:37,451 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:37,451 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:38,460 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:39,451 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:39,451 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:40,467 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:41,436 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:41,436 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:42,452 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:43,453 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:43,453 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:44,480 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:45,469 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:45,469 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:46,472 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:47,455 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:47,455 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:48,472 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:49,441 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:49,441 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:50,461 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:51,458 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:36:51,458 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:36:52,463 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:36:53,435 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 14:36:53,435 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 14:36:53,790 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- http://127.0.0.1:9000
+2016-11-16 14:40:10,374 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:40:10,388 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:40:10,405 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - updates running
+2016-11-16 14:40:10,431 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Running Startup Dignostics
+2016-11-16 14:40:10,594 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:9000
+2016-11-16 14:40:15,388 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:40:15,389 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:40:15,792 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:15,848 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:17,387 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:40:17,387 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:40:17,387 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:17,387 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:17,893 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 14:40:19,392 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:40:19,392 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 14:40:19,392 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:19,408 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:19,504 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 14:40:21,393 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:40:21,393 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 14:40:21,409 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:21,409 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:21,487 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 14:40:23,403 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:40:23,403 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 14:40:23,412 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:23,415 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:23,490 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 14:40:25,389 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 14:40:25,389 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 14:40:25,406 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:25,409 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:25,494 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 14:40:25,587 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:25,590 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:27,398 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:40:27,398 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:40:27,406 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:27,407 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:27,410 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 14:40:27,410 [DEBUG] from application in ForkJoinPool-2-worker-3 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:29,379 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:40:29,379 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:40:29,381 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:29,381 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:29,397 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:29,397 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:31,387 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:40:31,387 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:40:31,387 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:31,387 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:31,403 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:31,403 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:33,386 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:40:33,386 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:40:33,386 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:33,386 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:33,401 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:33,401 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:35,372 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:40:35,372 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:40:35,372 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:35,372 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:35,388 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 14:40:35,388 [DEBUG] from application in ForkJoinPool-2-worker-3 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:37,405 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:40:37,405 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 14:40:37,411 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:40:37,412 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:40:37,424 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:37,424 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:40:39,375 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 14:40:39,375 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 14:40:39,375 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 14:40:39,375 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 14:40:39,391 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 14:40:39,391 [DEBUG] from application in ForkJoinPool-2-worker-5 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":9000,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:9000","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:42:03,051 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:42:03,066 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:42:03,070 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - updates running
+2016-11-16 14:42:03,110 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - Running Startup Dignostics
+2016-11-16 14:42:03,264 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 14:42:08,059 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - api sync running
+2016-11-16 14:42:08,060 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - Updating Service Registry.
+2016-11-16 14:42:09,138 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:42:10,067 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - api sync running
+2016-11-16 14:42:10,067 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - Updating Service Registry.
+2016-11-16 14:42:11,082 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:42:12,063 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - api sync running
+2016-11-16 14:42:12,063 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - Updating Service Registry.
+2016-11-16 14:42:13,084 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:42:14,054 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - api sync running
+2016-11-16 14:42:14,054 [DEBUG] from application in application-akka.actor.default-dispatcher-9 - Updating Service Registry.
+2016-11-16 14:42:15,062 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:42:16,058 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - api sync running
+2016-11-16 14:42:16,058 [DEBUG] from application in application-akka.actor.default-dispatcher-7 - Updating Service Registry.
+2016-11-16 14:42:17,063 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreiving own api description :- Connection refused: no further information: /127.0.0.1:9000
+2016-11-16 14:52:15,170 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 14:52:15,180 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 14:52:15,196 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - updates running
+2016-11-16 14:52:15,231 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Running Startup Dignostics
+2016-11-16 14:52:15,495 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 14:52:20,180 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:52:20,180 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:52:20,625 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:52:20,682 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:52:20,747 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 14:52:20,747 [DEBUG] from application in ForkJoinPool-2-worker-3 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":8080,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:8080","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 14:52:22,184 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 14:52:22,184 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 14:52:22,184 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 14:52:22,184 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 14:52:22,199 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 14:52:22,199 [DEBUG] from application in ForkJoinPool-2-worker-3 - {"microservice":{"name":"microservice-seed","address":"127.0.0.1","port":8080,"public-url":"http://localhost:8082"},"api":{"swagger":"2.0","info":{"description":"This is a Micosirvices seed project","version":"1.0","title":"Microservices Seed Service","contact":{"name":"http://www.incidentia.com/termsofservice"},"license":{"name":"http://www.incidentia.com/termsofservice","url":"http://www.incidentia.com/termsofservice"}},"host":"127.0.0.1:8080","basePath":"/","tags":[{"name":"API Example"},{"name":"Health"}],"paths":{"/api/get":{"get":{"tags":["API Example"],"summary":"The short description","description":"# An exhibit of Markdown \n This note demonstrates some of what [Markdown][1] is capable of doing. \n\n **Note:** Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*\n## Basic formatting \n You can also: \n - Point 1 \n - Point 2","operationId":"apiexample","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"}}}},"/api/post":{"post":{"tags":["API Example"],"summary":"Update API","description":"Updates a record","operationId":"updateApi","parameters":[{"in":"body","name":"dog","description":"Dog object to update","required":true,"schema":{"$ref":"#/definitions/Dog"}}],"responses":{"200":{"description":"Success","schema":{"$ref":"#/definitions/Dog"}},"400":{"description":"Invalid input"}}}},"/health":{"get":{"tags":["Health"],"summary":"Get the complete health report from the service.","description":"","operationId":"getHealth","parameters":[],"responses":{"200":{"description":"Returns an application/json object"}}}},"/health/memory":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine memory health stats.","description":"","operationId":"getMemStat","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/ping":{"get":{"tags":["Health"],"summary":"A simple ping request to the service and return and 'Alive' response","description":"Send a request to this end pint to validate if the service is reachable.","operationId":"ping","produces":["text/plain"],"parameters":[],"responses":{"200":{"description":"Alive"},"500":{"description":"Internal server error"},"404":{"description":"Service no reachable"}}}},"/health/runtime":{"get":{"tags":["Health"],"summary":"Get the Java virtual machine runtime health stats.","description":"","operationId":"getRuntime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}},"/health/uptime":{"get":{"tags":["Health"],"summary":"Display the time duration that the Java virtual machine has need running.","description":"","operationId":"getUptime","parameters":[],"responses":{"200":{"description":"Returns a D:HH:MM:SS time format i.e. 0:01:12:15."}}}}},"definitions":{"ActionAnyContent":{"type":"object"},"Dog":{"type":"object","properties":{"id":{"type":"integer","format":"int64"},"name":{"type":"string"}}}}}}
+2016-11-16 15:43:38,451 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 15:43:38,457 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 15:43:38,477 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - updates running
+2016-11-16 15:43:38,508 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Running Startup Dignostics
+2016-11-16 15:43:38,617 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 15:43:43,477 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:43:43,477 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:43:43,944 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:43:44,005 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:43:45,479 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:43:45,479 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:43:45,639 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:45,641 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:43:46,089 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:43:47,462 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 15:43:47,462 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 15:43:47,483 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:47,486 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:43:47,703 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:43:49,463 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:43:49,463 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:43:49,486 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:49,491 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:43:49,588 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:43:51,449 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:43:51,449 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:43:51,470 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:51,473 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:43:51,588 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:43:53,500 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:43:53,500 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:43:53,501 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:43:53,529 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:43:53,531 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:43:55,467 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:43:55,470 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:43:55,478 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:43:55,478 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:43:55,566 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:43:55,567 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:43:56,291 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:43:56,291 [DEBUG] from application in ForkJoinPool-2-worker-5 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:43:57,478 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:43:57,478 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:43:57,478 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:57,478 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:43:58,201 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:43:58,201 [DEBUG] from application in ForkJoinPool-2-worker-5 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:43:59,459 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 15:43:59,459 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 15:43:59,469 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:43:59,471 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:44:00,669 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:00,669 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:01,467 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:44:01,467 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:44:01,473 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:01,475 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:02,189 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:02,189 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:03,457 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:44:03,457 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:44:03,465 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:03,466 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:04,222 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:04,222 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:05,474 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:44:05,474 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:44:05,474 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:05,474 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:06,230 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:06,230 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:07,453 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:44:07,453 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:44:07,453 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:07,453 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:08,207 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:08,207 [DEBUG] from application in ForkJoinPool-2-worker-5 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:09,452 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 15:44:09,452 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 15:44:09,460 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:44:09,460 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:44:10,164 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:10,165 [DEBUG] from application in ForkJoinPool-2-worker-5 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:11,486 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:44:11,486 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:44:11,486 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:44:11,486 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:44:12,179 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:12,179 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:13,447 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 15:44:13,447 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 15:44:13,461 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:13,462 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:14,167 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:14,167 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:15,459 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:44:15,459 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:44:15,459 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:15,459 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:16,126 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(500, Internal Server Error)
+2016-11-16 15:44:16,126 [DEBUG] from application in ForkJoinPool-2-worker-3 - 
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Compilation error</title>
+        <link rel="shortcut icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAlFJREFUeNqUU8tOFEEUPVVdNV3dPe8xYRBnjGhmBgKjKzCIiQvBoIaNbly5Z+PSv3Aj7DSiP2B0rwkLGVdGgxITSCRIJGSMEQWZR3eVt5sEFBgTb/dN1yvnnHtPNTPG4PqdHgCMXnPRSZrpSuH8vUJu4DE4rYHDGAZDX62BZttHqTiIayM3gGiXQsgYLEvATaqxU+dy1U13YXapXptpNHY8iwn8KyIAzm1KBdtRZWErpI5lEWTXp5Z/vHpZ3/wyKKwYGGOdAYwR0EZwoezTYApBEIObyELl/aE1/83cp40Pt5mxqCKrE4Ck+mVWKKcI5tA8BLEhRBKJLjez6a7MLq7XZtp+yyOawwCBtkiBVZDKzRk4NN7NQBMYPHiZDFhXY+p9ff7F961vVcnl4R5I2ykJ5XFN7Ab7Gc61VoipNBKF+PDyztu5lfrSLT/wIwCxq0CAGtXHZTzqR2jtwQiXONma6hHpj9sLT7YaPxfTXuZdBGA02Wi7FS48YiTfj+i2NhqtdhP5RC8mh2/Op7y0v6eAcWVLFT8D7kWX5S9mepp+C450MV6aWL1cGnvkxbwHtLW2B9AOkLeUd9KEDuh9fl/7CEj7YH5g+3r/lWfF9In7tPz6T4IIwBJOr1SJyIGQMZQbsh5P9uBq5VJtqHh2mo49pdw5WFoEwKWqWHacaWOjQXWGcifKo6vj5RGS6zykI587XeUIQDqJSmAp+lE4qt19W5P9o8+Lma5DcjsC8JiT607lMVkdqQ0Vyh3lHhmh52tfNy78ajXv0rgYzv8nfwswANuk+7sD/Q0aAAAAAElFTkSuQmCC">
+        <style>
+            html, body, pre {
+                margin: 0;
+                padding: 0;
+                font-family: Monaco, 'Lucida Console', monospace;
+                background: #ECECEC;
+            }
+            h1 {
+                margin: 0;
+                background: #A31012;
+                padding: 20px 45px;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-bottom: 1px solid #690000;
+                font-size: 28px;
+            }
+            a {
+                color: #D36D6D;
+            }
+            p#detail {
+                margin: 0;
+                padding: 15px 45px;
+                background: #F5A0A0;
+                border-top: 4px solid #D36D6D;
+                color: #730000;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.3);
+                font-size: 14px;
+                border-bottom: 1px solid #BA7A7A;
+            }
+            p#detail.pre {
+                white-space: pre;
+                font-size: 13px;
+                overflow: auto;
+            }
+            p#detail input {
+                background: #AE1113;
+                background: -webkit-linear-gradient(#AE1113, #A31012);
+                background: -o-linear-gradient(#AE1113, #A31012);
+                background: -moz-linear-gradient(#AE1113, #A31012);
+                background: linear-gradient(#AE1113, #A31012);
+                border: 1px solid #790000;
+                padding: 3px 10px;
+                text-shadow: 1px 1px 0 rgba(0, 0, 0, .5);
+                color: white;
+                border-radius: 3px;
+                cursor: pointer;
+                font-family: Monaco, 'Lucida Console';
+                font-size: 12px;
+                margin: 0 10px;
+                display: inline-block;
+                position: relative;
+                top: -1px;
+            }
+            h2 {
+                margin: 0;
+                padding: 5px 45px;
+                font-size: 12px;
+                background: #333;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+                border-top: 4px solid #2a2a2a;
+            }
+            pre {
+                margin: 0;
+                border-bottom: 1px solid #DDD;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                position: relative;
+                font-size: 12px;
+            }
+            pre span.line {
+                text-align: right;
+                display: inline-block;
+                padding: 5px 5px;
+                width: 30px;
+                background: #D6D6D6;
+                color: #8B8B8B;
+                text-shadow: 1px 1px 1px rgba(255,255,255,.5);
+                font-weight: bold;
+            }
+            pre span.code {
+                padding: 5px 5px;
+                position: absolute;
+                right: 0;
+                left: 40px;
+            }
+            pre:first-child span.code {
+                border-top: 4px solid #CDCDCD;
+            }
+            pre:first-child span.line {
+                border-top: 4px solid #B6B6B6;
+            }
+            pre.error span.line {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+            pre.error {
+                color: #A31012;
+            }
+            pre.error span.marker {
+                background: #A31012;
+                color: #fff;
+                text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+            }
+        </style>
+    </head>
+    <body id="play-error-page">
+        <h1>Compilation error</h1>
+
+        
+                <p id="detail" class="pre">Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]</p>
+            
+
+        
+
+                
+                    <h2>
+                        In 
+                          
+                            C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala:52
+                          
+                        
+                    </h2>
+
+                    <div id="source-code">
+                        
+
+                                
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="48"><span class="line">48</span><span class="code">              log.debug(&quot;Received update from microservice &quot; + (_microserviceObj \ &quot;name&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="49"><span class="line">49</span><span class="code">             log.debug(&quot;public-url = &quot; + (_microserviceObj \ &quot;public-url&quot;).asOpt[String]  )</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="50"><span class="line">50</span><span class="code">              //val json = jsonBody.get</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="51"><span class="line">51</span><span class="code">             </span></pre>
+                                    
+                                        <pre class="error" data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="52"  data-column="16" ><span class="line">52</span><span class="code">              Ok<span class="marker">(</span>)  </span></pre>
+
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="53"><span class="line">53</span><span class="code">         }.getOrElse {</span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="54"><span class="line">54</span><span class="code">            BadRequest(&quot;microservice attribute not find in json&quot;)    </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="55"><span class="line">55</span><span class="code">         } </span></pre>
+                                    
+                                        <pre data-file="C:\Users\nico.swan\Downloads\aretsi\microservice-projects\modules\aretsi-services-registry\app\controllers\API.scala" data-line="56"><span class="line">56</span><span class="code">      }.getOrElse {</span></pre>
+                                    
+                            
+                    </div>
+
+                
+
+            
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+2016-11-16 15:44:17,475 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - api sync running
+2016-11-16 15:44:17,475 [DEBUG] from application in application-akka.actor.default-dispatcher-2 - Updating Service Registry.
+2016-11-16 15:44:17,475 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:44:17,475 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:44:19,474 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - api sync running
+2016-11-16 15:44:19,474 [DEBUG] from application in application-akka.actor.default-dispatcher-3 - Updating Service Registry.
+2016-11-16 15:44:19,474 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:44:19,474 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:44:19,490 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to not-connected after 2000 ms
+2016-11-16 15:44:21,172 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084
+2016-11-16 15:45:01,789 [DEBUG] from application in main - serviceRegistryPushUpdateEnabled = true
+2016-11-16 15:45:01,789 [INFO] from play.api.Play in main - Application started (Prod)
+2016-11-16 15:45:01,826 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - updates running
+2016-11-16 15:45:01,865 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Running Startup Dignostics
+2016-11-16 15:45:01,948 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /127.0.0.1:8080
+2016-11-16 15:45:06,813 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:06,814 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:07,257 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:45:07,306 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:45:08,825 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:08,825 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:08,991 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:08,994 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:09,387 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:45:10,812 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - api sync running
+2016-11-16 15:45:10,812 [DEBUG] from application in application-akka.actor.default-dispatcher-6 - Updating Service Registry.
+2016-11-16 15:45:10,842 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:45:10,845 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:45:11,087 [DEBUG] from application in ForkJoinPool-2-worker-5 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:45:12,826 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:45:12,826 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:45:12,937 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:45:12,946 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:45:12,953 [DEBUG] from application in ForkJoinPool-2-worker-3 - Request timeout to localhost/127.0.0.1:8084 after 2000 ms
+2016-11-16 15:45:13,066 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:13,074 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved
+2016-11-16 15:45:14,813 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:14,813 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:14,822 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:14,823 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:14,831 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:14,832 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved
+2016-11-16 15:45:16,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:16,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:16,814 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:16,816 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:16,826 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:16,827 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved
+2016-11-16 15:45:18,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:18,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:18,813 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:18,815 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:18,823 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 15:45:18,823 [DEBUG] from application in ForkJoinPool-2-worker-3 - Revieved
+2016-11-16 15:45:20,803 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:20,803 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:20,812 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:45:20,814 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:45:20,821 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 15:45:20,821 [DEBUG] from application in ForkJoinPool-2-worker-3 - Revieved
+2016-11-16 15:45:22,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:22,807 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:22,814 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:22,815 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:22,822 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:22,823 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved
+2016-11-16 15:45:24,804 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:24,804 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:24,810 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:24,811 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:24,818 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:24,819 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved
+2016-11-16 15:45:26,813 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - api sync running
+2016-11-16 15:45:26,813 [DEBUG] from application in application-akka.actor.default-dispatcher-8 - Updating Service Registry.
+2016-11-16 15:45:26,820 [DEBUG] from application in ForkJoinPool-2-worker-3 - Retreived own api description.
+2016-11-16 15:45:26,821 [DEBUG] from application in ForkJoinPool-2-worker-3 - http://localhost:8084/api/registerService
+2016-11-16 15:45:26,828 [DEBUG] from application in ForkJoinPool-2-worker-3 - AhcWSResponse(200, OK)
+2016-11-16 15:45:26,828 [DEBUG] from application in ForkJoinPool-2-worker-3 - Revieved
+2016-11-16 15:45:28,813 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - api sync running
+2016-11-16 15:45:28,813 [DEBUG] from application in application-akka.actor.default-dispatcher-5 - Updating Service Registry.
+2016-11-16 15:45:28,820 [DEBUG] from application in ForkJoinPool-2-worker-5 - Retreived own api description.
+2016-11-16 15:45:28,821 [DEBUG] from application in ForkJoinPool-2-worker-5 - http://localhost:8084/api/registerService
+2016-11-16 15:45:28,827 [DEBUG] from application in ForkJoinPool-2-worker-5 - AhcWSResponse(200, OK)
+2016-11-16 15:45:28,827 [DEBUG] from application in ForkJoinPool-2-worker-5 - Revieved

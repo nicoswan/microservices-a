@@ -1,0 +1,33 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.HomeController.index
+
+# API documenation
+GET     /api-docs                   controllers.ApiHelpController.getResources
+GET     /swagger.json               controllers.ApiHelpController.getResources
+GET  	/swagger  					@controllers.HomeController.swagger
+
+# Micro Service Health
+GET     /health                     controllers.HealthController.getHealth
+GET     /health/ping                controllers.HealthController.ping
+GET     /health/uptime              controllers.HealthController.getUptime
+GET     /health/memory              controllers.HealthController.getMemStat
+GET     /health/runtime             controllers.HealthController.getRuntime
+
+# Actor API
+GET     /actor/config               controllers.ActorController.getConfig
+
+
+
+# API
+GET     /api/get                    controllers.APIController.getApi
+POST    /api/post                   controllers.APIController.updateApi
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+
+
